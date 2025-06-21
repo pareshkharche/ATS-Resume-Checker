@@ -48,10 +48,6 @@ Hell yeah! Here's how:
 
 MIT License. See `LICENSE` for more information.
 
-### Questions?
-
-Hit me up in the issues or at [pareshkharche1557@gmail.com].
-
 ### Remember
 
 You're not just coding. You're changing lives. One resume at a time.
